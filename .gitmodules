@@ -1,0 +1,14 @@
+[submodule "Siosk_en"]
+	path = Siosk_en
+	url = https://github.com/diddmstjr07/Siosk_en.git
+    branch = main
+
+[submodule "SioskUI_en"]
+	path = SioskUI_en
+	url = https://github.com/diddmstjr07/SioskUI_en.git
+    branch = main
+
+[submodule "SioskServer_en"]
+	path = SioskServer_en
+	url = https://github.com/diddmstjr07/SioskServer_en.git
+    branch = main

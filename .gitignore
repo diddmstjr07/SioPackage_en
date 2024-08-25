@@ -1,0 +1,12 @@
+database/
+__pycache__/
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+ssl/
+Siosk_en/assets/audio/
+pyvenv.cfg
+__pycache__
+*.spec
+conversation_en.json
